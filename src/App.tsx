@@ -203,7 +203,7 @@ export default function App() {
 
           {/* Liquid-Glass CTA Action Button (Hidden on Mobile) */}
           <a 
-            href="https://drive.google.com/uc?export=download&id=1ptCIQ2Kpq5ZxTDgbspZv5amnVMISvVnq"
+            href="https://drive.google.com/uc?export=download&id=1LCAja_XmAQMacYT_nfOGSKwFXlp051Lb"
             target="download-frame"
             onClick={handleCTA}
             className="hidden md:inline-flex items-center gap-2 px-5 py-2 text-[10px] md:text-xs font-extrabold uppercase tracking-widest text-[#E1E0CC] rounded-full cursor-pointer hover:scale-[1.03] active:scale-95 transition-all duration-300 liquid-glass"
@@ -328,7 +328,7 @@ export default function App() {
 
                 {/* Interactive Liquid-Glass CTA button */}
                 <motion.a
-                  href="https://drive.google.com/uc?export=download&id=1ptCIQ2Kpq5ZxTDgbspZv5amnVMISvVnq"
+                  href="https://drive.google.com/uc?export=download&id=1LCAja_XmAQMacYT_nfOGSKwFXlp051Lb"
                   target="download-frame"
                   onClick={handleCTA}
                   initial={{ opacity: 0, y: 20 }}
